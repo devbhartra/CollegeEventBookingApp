@@ -26,3 +26,7 @@ We plan to make this process as easy as just making a few taps on our android ap
 ### FUTURE SCOPE :
 
 At the current stage we plan to implement the app for events in PES University only. For our future ventures we would like to include other colleges and implement a map based feature to find out where exactly the event is being conducted in the college, include the option of online transactions, etc.
+
+
+TODO
+1. PayTM integration
